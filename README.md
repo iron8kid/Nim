@@ -1,0 +1,2 @@
+# Nim
+(CS50:AI PROJECT)
